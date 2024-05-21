@@ -1,4 +1,4 @@
-In this repository have 2 folders.
+In this repository contains 2 folders.
 
 Question 1 folder contains object property comparisons.
 
